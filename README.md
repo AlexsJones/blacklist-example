@@ -4,12 +4,9 @@
 - The example handler is in the main.go and serves an in memory example
 
 ## Requirements
-- golang
-- dep
-
+- golang (new enough version to support go modules)
 Run locally...
 ```
-- dep ensure
 - go run main.go
 ```
 ```
